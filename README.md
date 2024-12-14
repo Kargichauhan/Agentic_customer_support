@@ -86,7 +86,7 @@ pytest
 ```
 
 ## Result
-![My Image](images/photo.jpg)
+![My Image](images/output.png)
 
 ## License
 
