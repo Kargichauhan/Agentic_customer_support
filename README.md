@@ -85,6 +85,9 @@ pip install -e ".[dev]"
 pytest
 ```
 
+## Result
+![My Image](images/photo.jpg)
+
 ## License
 
 MIT License 
