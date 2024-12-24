@@ -94,7 +94,7 @@ pytest
 If you utilize this repository, please consider citing it with:
 ```
 @misc{AgAI,
-   author = {Advait Paliwal},
+   author = {Kargi Chauhan},
    title = {Agentic AI: Customer Support Chat Bot},
    year = {2024},
    publisher = {GitHub},
