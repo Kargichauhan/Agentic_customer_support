@@ -88,6 +88,20 @@ pytest
 ## Result
 ![My Image](output.png)
 
+
+## Citation
+
+If you utilize this repository, please consider citing it with:
+```
+@misc{AgAI,
+   author = {Advait Paliwal},
+   title = {Agentic AI: Customer Support Chat Bot},
+   year = {2024},
+   publisher = {GitHub},
+   journal = {GitHub repository},
+   howpublished = {\url{https://github.com/Kargichauhan/Agentic_customer_support}},
+}
+```
 ## License
 
 MIT License 
